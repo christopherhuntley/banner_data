@@ -1,0 +1,6 @@
+term: Summer2023
+term-year: 2023
+holiday-rules:
+  - {start-dt: '2023-05-29T00:00', end-dt: '2023-05-29T23:59'} # Memorial Day
+  - {start-dt: '2023-06-19T00:00', end-dt: '2023-06-19T23:59'} # Juneteenth
+  - {start-dt: '2023-07-04T00:00', end-dt: '2023-07-05T00:00'}  # Independence Day
